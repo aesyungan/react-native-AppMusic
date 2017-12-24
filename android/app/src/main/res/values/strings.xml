@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">appMusic</string>
+    <string name="facebook_app_id">116567982398727</string>
+    <string name="fb_login_protocol_scheme">fb116567982398727</string>
+</resources>

@@ -1,0 +1,7 @@
+app_identifier "org.reactjs.native.example.appMusic" # The bundle identifier of your app
+apple_id "ayungan.fis@unach.edu.ec" # Your Apple email address
+
+team_id "[[DEV_PORTAL_TEAM_ID]]" # Developer Portal Team ID
+
+# you can even provide different app identifiers, Apple IDs and team names per lane:
+# More information: https://docs.fastlane.tools/advanced/#appfile
